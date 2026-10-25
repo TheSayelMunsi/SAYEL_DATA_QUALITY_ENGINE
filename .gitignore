@@ -1,0 +1,15 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Data and Outputs (Do not commit large data files)
+data/raw/
+data/output/
+
+# OS files
+.DS_Store
+Thumbs.db
